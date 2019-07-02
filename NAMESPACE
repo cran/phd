@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("methods","is")
+importFrom("stats","cor","rbinom","sd")
+importFrom("glmnet","cv.glmnet")
